@@ -3,8 +3,8 @@ My personal website
 
 ## Education
 
--MA
--BS
+- MA
+- BS
 
 
 ## Employment
